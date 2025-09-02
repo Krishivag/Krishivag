@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Krishivag
-- 👀 I’m interested in coding and hackingg
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding and Cyber Security
+- 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me 
+- 📫 How to reach me
+  agarwalkrishiv06@gmail.com
 
 <!---
 Krishivag/Krishivag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
